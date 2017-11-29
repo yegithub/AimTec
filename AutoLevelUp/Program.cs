@@ -254,6 +254,9 @@ namespace AutoLevelUp
                 case "Kayle":
                     AbilitySequence = new[] { 3, 1, 2, 3, 3, 4, 3, 1, 3, 1, 4, 1, 1, 2, 2, 4, 2, 2 };
                     break;
+                case "Kayn":
+                    AbilitySequence = new[] { 1, 2, 3, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
+                    break;
                 case "Kennen":
                     AbilitySequence = new[] { 2, 1, 3, 2, 2, 4, 2, 1, 2, 1, 4, 1, 1, 3, 3, 4, 3, 3 };
                     break;
