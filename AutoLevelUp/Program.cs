@@ -622,10 +622,10 @@ namespace AutoLevelUp
                         Tipo = " Lane";
                     }
                     break;
-                case "Yasuo":
+                case "Yorick":
                     AbilitySequence = new[] { 1, 3, 2, 1, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
                     break;
-                case "Yorick":
+                case "Yasuo":
                     AbilitySequence = new[] { 1, 3, 2, 1, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
                     break;
                 case "Zac":
